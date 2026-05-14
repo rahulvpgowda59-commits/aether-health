@@ -1,2 +1,0 @@
-# aether-health
-hackathon project
